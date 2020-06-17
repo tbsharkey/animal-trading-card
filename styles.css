@@ -15,7 +15,7 @@ h1 {
     margin: auto;
     }
   
-  #card{
+  .card{
     background-size: cover;
     background-color: #4FECD3;
     background:linear-gradient(10deg, rgba(244,235,160,1) 43%,rgba(192,250,202,1) 50%);
@@ -27,7 +27,7 @@ h1 {
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   }
   
-  #container{
+  .container{
     background-color: white;
     border: 1px solid black;
     border-radius: 10px;
@@ -37,7 +37,7 @@ h1 {
     font-size: 15px;
   }
   
-  #interesting-fact {
+  .interesting-fact {
       font-style: italic;
       text-transform: capitalize;
       text-align: center;
